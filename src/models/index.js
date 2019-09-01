@@ -59,7 +59,7 @@ let jobPostings = [
       "hiringManager": "manager_100@team.telstra.com",
       "domain": "B2B"
   }, {
-    "jobId": 2,
+    "jobId": "2",
     "title": "Java developer",
     "description": "Need a developer experienced in Java spring based microservices",
     "skills": [
