@@ -218,41 +218,6 @@ var jobPostings = [{
     "gender": "Male"
   }]
 }, {
-  "jobId": "3",
-  "title": "Flutter developer",
-  "description": "Be a good flutter developer",
-  "skills": ["Flutter", "Dart", "TDD"],
-  "appliedCandidates": [{
-    "name": "Suresh PM",
-    "email": "suru.pm@org.com"
-  }],
-  "bandLimit": "3ii",
-  "location": "Hyderabad",
-  "hiringManager": "esh222@team.telstra.com",
-  "domain": "S2P",
-  "experience": "4-6 Years",
-  "teammates": [{
-    "name": "Manam PM",
-    "email": "manam.pm@telstra.com",
-    "gender": "Male"
-  }, {
-    "name": "Ari T",
-    "email": "ari.t@telstra.com",
-    "gender": "Male"
-  }, {
-    "name": "Rama P",
-    "email": "rama.t@telstra.com",
-    "gender": "Female"
-  }, {
-    "name": "Ari T",
-    "email": "ari.t@telstra.com",
-    "gender": "Female"
-  }, {
-    "name": "haresh K",
-    "email": "haresh.ks@telstra.com",
-    "gender": "Male"
-  }]
-}, {
   "jobId": "4",
   "title": "Java Spring developer",
   "description": "Be a good flutter developer",
