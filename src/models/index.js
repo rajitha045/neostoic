@@ -8,7 +8,7 @@ let users = [
     "education":"MBA, IIT Mumbai",
     "gender": "Male",
     "contact": {
-        "email": "esh114@team.telstra.com",
+        "email": "esh114@team.com",
         "phone": "+91-912435689"
     },
     "skills": [
@@ -30,7 +30,7 @@ let users = [
   "education":"B.Tech, IIT BHU",
   "gender": "Male",
   "contact": {
-      "email": "esh222@team.telstra.com",
+      "email": "esh222@team.com",
       "phone": "+91-912435689"
   },
   "skills": [
@@ -52,7 +52,7 @@ let users = [
   "gender": "Male",
   "education":"B.Tech, IIT Kanpur",
   "contact": {
-      "email": "emp321@team.telstra.com",
+      "email": "emp321@team.com",
       "phone": "+91-912435689"
   },
   "skills": [
@@ -75,7 +75,7 @@ let users = [
   "education":"B.Tech, IIT BHU",
   "gender": "Male",
   "contact": {
-      "email": "esh098@team.telstra.com",
+      "email": "esh098@team.com",
       "phone": "+91-912435689"
   },
   "skills": [
@@ -98,7 +98,7 @@ let users = [
   "gender": "Male",
   "education":"B.Tech, IIT Delhi",
   "contact": {
-      "email": "emp554@team.telstra.com",
+      "email": "emp554@team.com",
       "phone": "+91-912435689"
   },
   "skills": [
@@ -120,7 +120,7 @@ let users = [
   "gender": "Male",
   "education":"B.Tech, Bits",
   "contact": {
-      "email": "EMP123@team.telstra.com",
+      "email": "EMP123@team.com",
       "phone": "+91-9123456789"
   },
   "skills": [
@@ -145,7 +145,7 @@ let users = [
 "gender": "Male",
 "education":"B.Tech, IIT Kanpur",
 "contact": {
-    "email": "emp321@team.telstra.com",
+    "email": "emp321@team.com",
     "phone": "+91-912435689"
 },
 "skills": [
@@ -193,33 +193,33 @@ let jobPostings = [
       ],
       "bandLimit": "3ii",
       "location": "Hyderabad",
-      "hiringManager": "manager_100@team.telstra.com",
+      "hiringManager": "manager_100@team.com",
       "domain": "B2B",
       "experience":"2-3 Years",
       "teammates":[
           {
             "name":"Girish PM",
-            "email":"girish.pm@telstra.com",
+            "email":"girish.pm@com",
             "gender":"Male"
           },{
             "name":"Eshwar S",
-            "email":"eshwar.s@telstra.com",
+            "email":"eshwar.s@com",
             "gender":"Male"
           },{
             "name":"Lakshmi S",
-            "email":"laksmi.s@telstra.com",
+            "email":"laksmi.s@com",
             "gender":"Female"
           },{
             "name":"Harris P",
-            "email":"harris.p@telstra.com",
+            "email":"harris.p@com",
             "gender":"Male"
           },{
             "name":"Ashvini Bhar",
-            "email":"ashvini.bhat@telstra.com",
+            "email":"ashvini.bhat@com",
             "gender":"Female"
           },{
             "name":"Nitesh D",
-            "email":"nitesh.s@telstra.com",
+            "email":"nitesh.s@com",
             "gender":"Male"
           }
       ]
@@ -244,29 +244,29 @@ let jobPostings = [
     ],
     "bandLimit": "3ii",
     "location": "Hyderabad",
-    "hiringManager": "manager_101@team.telstra.com",
+    "hiringManager": "manager_101@com",
     "domain": "S2P",
     "experience":"4-6 Years",
     "teammates":[
         {
           "name":"Jon doe",
-          "email":"jon.pm@telstra.com",
+          "email":"jon.pm@com",
           "gender":"Male"
         },{
           "name":"Makil",
-          "email":"malik.s@telstra.com",
+          "email":"malik.s@com",
           "gender":"Male"
         },{
             "name":"Rama S",
-            "email":"rama.s@telstra.com",
+            "email":"rama.s@com",
             "gender":"Female"
         },{
             "name":"Kaushik",
-            "email":"kart.s@telstra.com",
+            "email":"kart.s@com",
             "gender":"Male"
         },{
             "name":"Ashik",
-            "email":"ashik.s@telstra.com",
+            "email":"ashik.s@com",
             "gender":"Male"
         }
     ]
@@ -284,29 +284,29 @@ let jobPostings = [
     "appliedCandidates":[],
     "bandLimit": "3ii",
     "location": "Bengaluru",
-    "hiringManager": "esh222@team.telstra.com",
+    "hiringManager": "esh222@com",
     "domain": "S2P",
     "experience":"4-6 Years",
     "teammates":[
         {
           "name":"Manam PM",
-          "email":"manam.pm@telstra.com",
+          "email":"manam.pm@com",
           "gender":"Male"
         },{
           "name":"Ari T",
-          "email":"ari.t@telstra.com",
+          "email":"ari.t@com",
           "gender":"Male"
         },{
             "name":"Rama P",
-            "email":"rama.t@telstra.com",
+            "email":"rama.t@com",
             "gender":"Female"
         },{
             "name":"Rashmi SP",
-            "email":"rashmi.ps@telstra.com",
+            "email":"rashmi.ps@com",
             "gender":"Female"
         },{
             "name":"Dalai lama",
-            "email":"lama.dalai@telstra.com",
+            "email":"lama.dalai@com",
             "gender":"Male"
         }
     ]
@@ -323,17 +323,17 @@ let jobPostings = [
     ],
     "bandLimit": "2",
     "location": "Bengaluru",
-    "hiringManager": "esh311@team.telstra.com",
+    "hiringManager": "esh311@com",
     "domain": "S2P",
     "experience":"4-6 Years",
     "teammates":[
         {
           "name":"Sanam PM",
-          "email":"sanam.pm@telstra.com",
+          "email":"sanam.pm@com",
           "gender":"Male"
         },{
           "name":"Rama SM",
-          "email":"rama.sm@telstra.com",
+          "email":"rama.sm@com",
           "gender":"Female"
         }
     ]
